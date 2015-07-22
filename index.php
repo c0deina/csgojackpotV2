@@ -202,7 +202,7 @@ include_once('steamauth/userInfo.php');}
 						else {
 							$token = fetchinfo("tlink","users","steamid",$_SESSION["steamid"]);
 							if(strlen($token) < 2) echo '<div id="add_game"><a class="btwn_game" href="#" onclick="alert2(\'Enter your trade link.\')">'.$msg[$lang]["ingame"].'!</a></div>';
-							else echo '<div id="add_game"><a class="btwn_game" href="https://steamcommunity.com/tradeoffer/new/?partner=218547849&token=Ko4mBG98" target=_blank>'.$msg[$lang]["ingame"].'!</a></div>';
+							else echo '<div id="add_game"><a class="btwn_game" href="STEAM TRADE LINK HERE" target=_blank>'.$msg[$lang]["ingame"].'!</a></div>';
 						}
 						?>
 						<div class="stuffs promo-cover">
