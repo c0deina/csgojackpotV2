@@ -1,0 +1,55 @@
+html, body, div, h1, h2, h3, h4, h5, h6, span, applet, object, iframe, p, blockquote, pre, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center,  dl, dt, dd, ul, ol, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	outline: 0;
+}
+*{
+    box-sizing: border-box;
+}
+body{
+    word-wrap: break-word;
+}
+h1, h2, h3, h4, h5{
+    line-height: normal;
+	font-weight: normal;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+a img{
+    border: 0 none;
+}
+textarea{
+    resize: vertical;
+}
+input, textarea, select, button, body{
+    font: 12px/16px Arial, Helvetica, sans-serif;
+}
+input, textarea, select, button, a{
+    outline: none;
+}
+p{
+    margin-bottom: 0.4em;
+}
+hr{
+    border: 0 none;
+    border-top: 1px solid #dbe8ed;
+    height: 1px;
+}
+ul, ul li{
+    list-style: none;
+}
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+.clearfix{
+    clear: both;
+}
+.lcol{
+    float: left;
+}
+.rcol{
+    float: right;
+}

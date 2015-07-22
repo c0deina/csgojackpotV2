@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'SansPro';
+    src: url('PFBeauSansPro-Light.otf')/*tpa=http://csgofire.ru/Template/fonts/PFBeauSansPro-Light.otf*/ format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SansPro';
+    src: url('PFBeauSansPro-LightItalic.otf')/*tpa=http://csgofire.ru/Template/fonts/PFBeauSansPro-LightItalic.otf*/ format('opentype');
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'SansPro';
+    src: url('PFBeauSansPro-SemiBold.otf')/*tpa=http://csgofire.ru/Template/fonts/PFBeauSansPro-SemiBold.otf*/ format('opentype');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SansPro';
+    src: url('PFBeauSansPro-SemiBoldItali.otf')/*tpa=http://csgofire.ru/Template/fonts/PFBeauSansPro-SemiBoldItali.otf*/ format('opentype');
+    font-weight: 600;
+    font-style: italic;
+}
